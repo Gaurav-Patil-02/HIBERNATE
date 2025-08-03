@@ -12,3 +12,8 @@ com.hibernatecrud/.settings/
 com.hibernatecrud/target/
 com.hibernatecrud/.classpath
 com.hibernatecrud/.project
+
+com.Student_Management/.settings/
+com.Student_Management/target/
+com.Student_Management/.classpath
+com.Student_Management/.project
