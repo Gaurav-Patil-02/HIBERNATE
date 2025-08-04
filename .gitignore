@@ -1,0 +1,19 @@
+# Eclipse workspace settings
+.metadata/
+
+# Hibernate_Connetion project ignores
+Hibernate_Connetion/.settings/
+Hibernate_Connetion/target/
+Hibernate_Connetion/.classpath
+Hibernate_Connetion/.project
+
+# com.hibernatecrud project ignores
+com.hibernatecrud/.settings/
+com.hibernatecrud/target/
+com.hibernatecrud/.classpath
+com.hibernatecrud/.project
+
+com.Student_Management/.settings/
+com.Student_Management/target/
+com.Student_Management/.classpath
+com.Student_Management/.project
